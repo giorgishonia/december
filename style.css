@@ -1,0 +1,12 @@
+.container{
+    background-color: green;
+    height: 180px;
+    width: 180px;
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    display: inline;
+}

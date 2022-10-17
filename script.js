@@ -1,1 +1,1 @@
-console.log(23 + 95)
+function getComputerChoice()
